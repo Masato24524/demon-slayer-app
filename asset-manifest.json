@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/demon-slayer-app/static/css/main.990297b4.css",
+    "main.js": "/demon-slayer-app/static/js/main.9ac32036.js",
+    "index.html": "/demon-slayer-app/index.html",
+    "main.990297b4.css.map": "/demon-slayer-app/static/css/main.990297b4.css.map",
+    "main.9ac32036.js.map": "/demon-slayer-app/static/js/main.9ac32036.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.990297b4.css",
+    "static/js/main.9ac32036.js"
+  ]
+}
