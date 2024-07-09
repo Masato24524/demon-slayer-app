@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/demon-slayer-app/static/css/main.990297b4.css",
-    "main.js": "/demon-slayer-app/static/js/main.9ac32036.js",
+    "main.css": "/demon-slayer-app/static/css/main.5f8ee763.css",
+    "main.js": "/demon-slayer-app/static/js/main.4e8cb830.js",
     "index.html": "/demon-slayer-app/index.html",
-    "main.990297b4.css.map": "/demon-slayer-app/static/css/main.990297b4.css.map",
-    "main.9ac32036.js.map": "/demon-slayer-app/static/js/main.9ac32036.js.map"
+    "main.5f8ee763.css.map": "/demon-slayer-app/static/css/main.5f8ee763.css.map",
+    "main.4e8cb830.js.map": "/demon-slayer-app/static/js/main.4e8cb830.js.map"
   },
   "entrypoints": [
-    "static/css/main.990297b4.css",
-    "static/js/main.9ac32036.js"
+    "static/css/main.5f8ee763.css",
+    "static/js/main.4e8cb830.js"
   ]
 }
