@@ -106,7 +106,8 @@ main {
   }
 
   .card-image {
-    height: 150px;
+    height: 200px; /*originalはheight192pxのみ*/
+    width: 300px;
   }
 
   .card-title {

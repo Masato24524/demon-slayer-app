@@ -152,7 +152,7 @@ function App(): React.ReactElement {
         </div>
         <div className="pager">
           <button disabled={page === 1} className="prev" onClick = {handlePrev}>Previous</button>
-          <span className="page-number">{`${page}`}</span>
+          <span className="page-number">{`${page}`}/4</span>
           <button disabled={displayCount > characters.length} className="next" onClick={handleNext}>Next</button>
         </div>
       </main>
